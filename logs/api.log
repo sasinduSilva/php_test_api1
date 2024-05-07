@@ -1,0 +1,22 @@
+11:58 AM 070524|Request >> HTTP_GB_API_TOKEN: dskghdfkhgjdf54546456546 |  HTTP_GB_USER_TOKEN:  | {"operation":"signup","email":"sasindu@gmail.com","name":"Sasindu Avishka","password":"12345"}
+11:58 AM 070524|Response << {"ResponseCode":"0014","ResponseDesc":"Autherization failed"}
+11:59 AM 070524|Request >> HTTP_GB_API_TOKEN:  |  HTTP_GB_USER_TOKEN:  | {"operation":"signup","email":"sasindu@gmail.com","name":"Sasindu Avishka","password":"12345"}
+11:59 AM 070524|Request >> HTTP_GB_API_TOKEN: dskghdfkhgjdf54546456546 |  HTTP_GB_USER_TOKEN:  | {"operation":"signup","email":"sasindu@gmail.com","name":"Sasindu Avishka","password":"12345"}
+12:01 PM 070524|Request >> HTTP_GB_API_TOKEN: dskghdfkhgjdf54546456546 | {"operation":"signup","email":"sasindu@gmail.com","name":"Sasindu Avishka","password":"12345"}
+12:01 PM 070524|Response << {"ResponseCode":"0014","ResponseDesc":"Autherization failed"}
+12:01 PM 070524|Request >> HTTP_GB_API_TOKEN: dskghdfkhgjdf54546456546 | {"operation":"signup","email":"sasindu@gmail.com","name":"Sasindu Avishka","password":"12345"}
+12:02 PM 070524|Request >> HTTP_GB_API_TOKEN: dskghdfkhgjdf54546456546 | {"operation":"signup","email":"sasindu@gmail.com","name":"Sasindu Avishka","password":"12345"}
+12:02 PM 070524|Response << {"ResponseCode":"0014","ResponseDesc":"Autherization failed"}
+12:02 PM 070524|Request >> HTTP_GB_API_TOKEN:  | {"operation":"signup","email":"sasindu@gmail.com","name":"Sasindu Avishka","password":"12345"}
+12:03 PM 070524|Request >> HTTP_GB_API_TOKEN: dskghdfkhgjdf54546456546 | {"operation":"signup","email":"sasindu@gmail.com","name":"Sasindu Avishka","password":"12345"}
+12:03 PM 070524|Response << {"ResponseCode":"0014","ResponseDesc":"Autherization failed"}
+12:03 PM 070524|Request >> HTTP_GB_API_TOKEN: dskghdfkhgjdf54546456546 | {"operation":"signup","email":"sasindu@gmail.com","name":"Sasindu Avishka","password":"12345"}
+12:03 PM 070524|Response << {"ResponseCode":"0014","ResponseDesc":"Autherization failed"}
+12:03 PM 070524|Request >> HTTP_GB_API_TOKEN: "dskghdfkhgjdf54546456546" | {"operation":"signup","email":"sasindu@gmail.com","name":"Sasindu Avishka","password":"12345"}
+12:05 PM 070524|Request >> HTTP_GB_API_TOKEN: "dskghdfkhgjdf54546456546" | {"operation":"signup","email":"sasindu1@gmail.com","name":"Sasindu Avishka","password":"12345"}
+12:05 PM 070524|Response << {"operation":"signup","user_token":null,"userData":{"email":{"email":"sasindu1@gmail.com"},"name":{"name":"Sasindu Avishka"}},"ResponseCode":"0001","ResponseDesc":"User Registered Successfully"}
+12:06 PM 070524|Request >> HTTP_GB_API_TOKEN: "dskghdfkhgjdf54546456546" | {"operation":"signup","email":"sasindu2@gmail.com","name":"Sasindu Avishka","password":"12345"}
+12:06 PM 070524|Response << {"operation":"signup","user_token":"MTcxNTA2Mzc2MDAwMDAwMA==","userData":{"email":{"email":"sasindu2@gmail.com"},"name":{"name":"Sasindu Avishka"}},"ResponseCode":"0001","ResponseDesc":"User Registered Successfully"}
+12:13 PM 070524|Request >> HTTP_GB_API_TOKEN: "dskghdfkhgjdf54546456546" | {"operation":"signup","email":"sasindu2@gmail.com","name":"Sasindu Avishka","password":"12345"}
+12:13 PM 070524|Request >> HTTP_GB_API_TOKEN: "dskghdfkhgjdf54546456546" | {"operation":"signup","email":"sasindu2@gmail.com","name":"Sasindu Avishka","password":"12345"}
+12:13 PM 070524|Response << {"operation":"signup","ResponseCode":"0002","ResponseDesc":"Email already registered"}
